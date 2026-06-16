@@ -1,2 +1,3 @@
 # sfmi-awesome-skills
-SKILLs for SFMI
+
+SFMI 프로젝트 구성을 위한 SKILL 모음집
